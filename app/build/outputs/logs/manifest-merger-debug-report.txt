@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c14111d787c905ef103ef9a2aa7825b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5c2997e99c89c90484eafde80b6751cb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b20d87a7c6b50fcd9c2a673f78f3f40f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8f862d8a8900401ee23aeead4a70db52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\aebdecd9daa87c2d3493c592fbe7bf9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\115c79e094111bd352b5e821e7c88538\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6aea53512a2af8a9b880efb4f04ac539\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\825b9461c849a5d3dba4c8399d6d0da2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9f5e4e2c487d724b4942e6a7e624351e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4b9776cee1c989ab06f36e687a36bdfb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da9dca7e80e17748f504ba7e140d7a00\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed68a4063bd234efc1fbf920dbd1524a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5c2997e99c89c90484eafde80b6751cb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5c2997e99c89c90484eafde80b6751cb\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.cobra.hashmd5.MainActivity
+ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c14111d787c905ef103ef9a2aa7825b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c14111d787c905ef103ef9a2aa7825b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5c2997e99c89c90484eafde80b6751cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\5c2997e99c89c90484eafde80b6751cb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b20d87a7c6b50fcd9c2a673f78f3f40f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b20d87a7c6b50fcd9c2a673f78f3f40f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8f862d8a8900401ee23aeead4a70db52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8f862d8a8900401ee23aeead4a70db52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\aebdecd9daa87c2d3493c592fbe7bf9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\aebdecd9daa87c2d3493c592fbe7bf9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\115c79e094111bd352b5e821e7c88538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\115c79e094111bd352b5e821e7c88538\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6aea53512a2af8a9b880efb4f04ac539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6aea53512a2af8a9b880efb4f04ac539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\825b9461c849a5d3dba4c8399d6d0da2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\825b9461c849a5d3dba4c8399d6d0da2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9f5e4e2c487d724b4942e6a7e624351e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9f5e4e2c487d724b4942e6a7e624351e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4b9776cee1c989ab06f36e687a36bdfb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4b9776cee1c989ab06f36e687a36bdfb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da9dca7e80e17748f504ba7e140d7a00\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da9dca7e80e17748f504ba7e140d7a00\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed68a4063bd234efc1fbf920dbd1524a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Usuario\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ed68a4063bd234efc1fbf920dbd1524a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\Desktop\hashmd5-20180507T060345Z-001\hashmd5\app\src\main\AndroidManifest.xml
